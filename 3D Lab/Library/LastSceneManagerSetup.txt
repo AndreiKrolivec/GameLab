@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Main/Images/MapTiles/MainScenceGame.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
